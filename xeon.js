@@ -6,7 +6,7 @@
 //© 2022 kavee Bot Inc. Dark nero Bot MD 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// my owenr kaveesha
+// my owenr 𝙽𝙸𝚁𝚄𝚂𝙷𝙰
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
@@ -176,9 +176,9 @@ Time ⏰ =  ${xtime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
+    image: { url: 'https://ibb.co/VwZRhvh'},
 caption: xeonbody,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+footer: `❣️ 𝙽𝙸𝚁𝚄𝚂𝙷𝙰 ❣️`,
 buttons,
 headerType: 4
 }
@@ -203,9 +203,9 @@ Time ⏰ =  ${xeontime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
+        image: { url: 'https://ibb.co/VwZRhvh'},
     caption: xeonbody,
-    footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+    footer: `❣️ 𝙽𝙸𝚁𝚄𝚂𝙷𝙰 ❣️`,
     buttons,
     headerType: 4
     }
