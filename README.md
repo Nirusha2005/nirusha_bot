@@ -1,6 +1,6 @@
 <h1 align="center"> ❣️ 𝙽𝙸𝚁𝚄𝚂𝙷𝙰 ❣️ <br></h1>
 <p align="center">
-<img src="https://ibb.co/VwZRhvh" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://ibb.co/VwZRhvh" border="0">
 
 
 
